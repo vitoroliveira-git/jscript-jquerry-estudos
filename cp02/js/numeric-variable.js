@@ -12,6 +12,7 @@ quantity = 20;
 
 total = price * quantity
 
+//Puxa elemento pela ID
 var elemento = document.getElementById('cost'); 
 
 //Verificar se realmente está chamando a variável e aparecendo o valor
